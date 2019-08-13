@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MockWebServer Test</string>
+    <string name="row_username">alfianyusufabdullah</string>
+    <string name="row_github_url">https://github.com/alfianyusufabdullah</string>
+    <string name="content_decs_avatar">This image is a user avatar</string>
+    <string name="hint_et_search_form">username</string>
+    <string name="btn_test">search</string>
+    <string name="empty_query">Username \'%1$s\' tidak ditemukan</string>
+</resources>
